@@ -1,0 +1,3 @@
+﻿  SkipListVS.cpp
+d:\projects\skiplist\skiplistvs\skiplistvs\skiplistvs.cpp(234): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  SkipListVS.vcxproj -> D:\Projects\SkipList\SkipListVS\x64\Debug\SkipListVS.exe

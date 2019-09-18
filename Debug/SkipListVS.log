@@ -1,0 +1,136 @@
+﻿  pch.cpp
+  SkipList.cpp
+d:\projects\skiplist\skiplistvs\skiplistvs\skiplist.cpp(68): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  SkipListVS.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(23): error C3861: 'false_type': identifier not found
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(25): note: see reference to class template instantiation 'OrderedStructs::SkipList::std::_Tuple_implicit_val0<_Same,_Dest,_Srcs...>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(29): error C2065: 'tuple': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(29): error C2059: syntax error: '<type-template-argument>'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(29): error C2976: 'OrderedStructs::SkipList::std::_Tuple_implicit_val0': too few template arguments
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(23): note: see declaration of 'OrderedStructs::SkipList::std::_Tuple_implicit_val0'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(29): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(29): error C2143: syntax error: missing ';' before ','
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(29): error C3855: 'OrderedStructs::SkipList::std::_Tuple_implicit_val0': template parameter '_Same' is incompatible with the declaration
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(29): error C3855: 'OrderedStructs::SkipList::std::_Tuple_implicit_val0': template parameter '_Dest' is incompatible with the declaration
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(29): error C2059: syntax error: ','
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(30): error C2143: syntax error: missing ';' before '<'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(34): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(34): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(40): error C3861: 'tuple_size_v': identifier not found
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(42): note: see reference to class template instantiation 'OrderedStructs::SkipList::std::_Tuple_implicit_val<_Dest,_Srcs...>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(40): error C2065: 'tuple_size_v': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(40): error C2059: syntax error: '<type-template-argument>'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(40): error C3770: 'unknown-type': is not a valid base class
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(40): error C2143: syntax error: missing ',' before '=='
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(40): error C2039: 'type': is not a member of '`global namespace''
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(49): error C3861: 'false_type': identifier not found
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(51): note: see reference to class template instantiation 'OrderedStructs::SkipList::std::_Tuple_explicit_val0<_Same,_Dest,_Srcs...>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(55): error C2065: 'tuple': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(55): error C2059: syntax error: '<type-template-argument>'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(55): error C2976: 'OrderedStructs::SkipList::std::_Tuple_explicit_val0': too few template arguments
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(49): note: see declaration of 'OrderedStructs::SkipList::std::_Tuple_explicit_val0'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(55): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(55): error C2143: syntax error: missing ';' before ','
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(55): error C3855: 'OrderedStructs::SkipList::std::_Tuple_explicit_val0': template parameter '_Same' is incompatible with the declaration
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(55): error C3855: 'OrderedStructs::SkipList::std::_Tuple_explicit_val0': template parameter '_Dest' is incompatible with the declaration
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(55): error C2059: syntax error: ','
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(56): error C2143: syntax error: missing ';' before '<'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(56): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(56): error C2086: 'int OrderedStructs::SkipList::std::bool_constant': redefinition
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(30): note: see declaration of 'OrderedStructs::SkipList::std::bool_constant'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(60): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(60): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(66): error C3861: 'tuple_size_v': identifier not found
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(68): note: see reference to class template instantiation 'OrderedStructs::SkipList::std::_Tuple_explicit_val<_Dest,_Srcs...>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(66): error C2065: 'tuple_size_v': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(66): error C2059: syntax error: '<type-template-argument>'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(66): error C3770: 'unknown-type': is not a valid base class
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(66): error C2143: syntax error: missing ',' before '=='
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(66): error C2039: 'type': is not a member of '`global namespace''
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(75): error C3861: 'false_type': identifier not found
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(77): note: see reference to class template instantiation 'OrderedStructs::SkipList::std::_Tuple_constructible_val0<_Same,_Dest,_Srcs...>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(81): error C2065: 'tuple': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(81): error C2059: syntax error: '<type-template-argument>'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(81): error C2976: 'OrderedStructs::SkipList::std::_Tuple_constructible_val0': too few template arguments
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(75): note: see declaration of 'OrderedStructs::SkipList::std::_Tuple_constructible_val0'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(81): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(81): error C2143: syntax error: missing ';' before ','
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(81): error C3855: 'OrderedStructs::SkipList::std::_Tuple_constructible_val0': template parameter '_Same' is incompatible with the declaration
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(81): error C3855: 'OrderedStructs::SkipList::std::_Tuple_constructible_val0': template parameter '_Dest' is incompatible with the declaration
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(81): error C2059: syntax error: ','
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(82): error C2143: syntax error: missing ';' before '<'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(82): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(82): error C2086: 'int OrderedStructs::SkipList::std::bool_constant': redefinition
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(30): note: see declaration of 'OrderedStructs::SkipList::std::bool_constant'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(83): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(83): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(89): error C3861: 'tuple_size_v': identifier not found
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(96): error C3861: 'false_type': identifier not found
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(98): note: see reference to class template instantiation 'OrderedStructs::SkipList::std::_Tuple_nothrow_constructible_val0<_Same,_Dest,_Srcs...>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(102): error C2065: 'tuple': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(102): error C2059: syntax error: '<type-template-argument>'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(102): error C2976: 'OrderedStructs::SkipList::std::_Tuple_nothrow_constructible_val0': too few template arguments
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(96): note: see declaration of 'OrderedStructs::SkipList::std::_Tuple_nothrow_constructible_val0'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(102): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(102): error C2143: syntax error: missing ';' before ','
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(102): error C3855: 'OrderedStructs::SkipList::std::_Tuple_nothrow_constructible_val0': template parameter '_Same' is incompatible with the declaration
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(102): error C3855: 'OrderedStructs::SkipList::std::_Tuple_nothrow_constructible_val0': template parameter '_Dest' is incompatible with the declaration
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(102): error C2059: syntax error: ','
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(103): error C2143: syntax error: missing ';' before '<'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(103): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(103): error C2086: 'int OrderedStructs::SkipList::std::bool_constant': redefinition
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(30): note: see declaration of 'OrderedStructs::SkipList::std::bool_constant'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(104): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(104): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(110): error C3861: 'tuple_size_v': identifier not found
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(117): error C3861: 'false_type': identifier not found
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(119): note: see reference to class template instantiation 'OrderedStructs::SkipList::std::_Tuple_assignable_val0<_Same,_Dest,_Srcs...>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(123): error C2065: 'tuple': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(123): error C2059: syntax error: '<type-template-argument>'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(123): error C2976: 'OrderedStructs::SkipList::std::_Tuple_assignable_val0': too few template arguments
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(117): note: see declaration of 'OrderedStructs::SkipList::std::_Tuple_assignable_val0'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(123): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(123): error C2143: syntax error: missing ';' before ','
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(123): error C3855: 'OrderedStructs::SkipList::std::_Tuple_assignable_val0': template parameter '_Same' is incompatible with the declaration
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(123): error C3855: 'OrderedStructs::SkipList::std::_Tuple_assignable_val0': template parameter '_Dest' is incompatible with the declaration
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(123): error C2059: syntax error: ','
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(124): error C2143: syntax error: missing ';' before '<'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(124): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(124): error C2086: 'int OrderedStructs::SkipList::std::bool_constant': redefinition
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(30): note: see declaration of 'OrderedStructs::SkipList::std::bool_constant'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(125): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(125): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(131): error C3861: 'tuple_size_v': identifier not found
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(136): error C2516: 'OrderedStructs::SkipList::std::bool_constant': is not a legal base class
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(30): note: see declaration of 'OrderedStructs::SkipList::std::bool_constant'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(138): note: see reference to class template instantiation 'OrderedStructs::SkipList::std::_Tuple_assignable_val<_Dest,_Srcs...>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(136): error C2143: syntax error: missing ',' before '<'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(145): error C3861: 'false_type': identifier not found
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(147): note: see reference to class template instantiation 'OrderedStructs::SkipList::std::_Tuple_nothrow_assignable_val0<_Same,_Dest,_Srcs...>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(151): error C2065: 'tuple': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(151): error C2059: syntax error: '<type-template-argument>'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(151): error C2976: 'OrderedStructs::SkipList::std::_Tuple_nothrow_assignable_val0': too few template arguments
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(145): note: see declaration of 'OrderedStructs::SkipList::std::_Tuple_nothrow_assignable_val0'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(151): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(151): error C2143: syntax error: missing ';' before ','
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(151): error C3855: 'OrderedStructs::SkipList::std::_Tuple_nothrow_assignable_val0': template parameter '_Same' is incompatible with the declaration
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(151): error C3855: 'OrderedStructs::SkipList::std::_Tuple_nothrow_assignable_val0': template parameter '_Dest' is incompatible with the declaration
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(151): error C2059: syntax error: ','
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(152): error C2143: syntax error: missing ';' before '<'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(152): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(152): error C2086: 'int OrderedStructs::SkipList::std::bool_constant': redefinition
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(30): note: see declaration of 'OrderedStructs::SkipList::std::bool_constant'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(153): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(153): error C2447: '{': missing function header (old-style formal list?)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(159): error C3861: 'tuple_size_v': identifier not found
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(165): error C3861: 'true_type': identifier not found
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(167): note: see reference to class template instantiation 'OrderedStructs::SkipList::std::_Tuple_convert_copy_val<_Myself,_Other...>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(171): error C2065: 'tuple': undeclared identifier
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(171): error C2059: syntax error: '<type-template-argument>'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(171): error C2976: 'OrderedStructs::SkipList::std::_Tuple_convert_copy_val': too few template arguments
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(165): note: see declaration of 'OrderedStructs::SkipList::std::_Tuple_convert_copy_val'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(171): error C2988: unrecognizable template declaration/definition
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(171): error C2143: syntax error: missing ';' before ','
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\tuple(171): fatal error C1003: error count exceeds 100; stopping compilation
+  Generating Code...
